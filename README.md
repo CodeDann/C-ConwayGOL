@@ -29,6 +29,6 @@ Finally after the execution is finished the final state will be saved in "save_s
 ## What it looks like
 
 Example execution of simple glider
-![GIF of glider moving](https://github.com/CodeDann/C-ConwayGOL/edit/main/GOL.gif)
+![GIF of glider moving](https://github.com/CodeDann/C-ConwayGOL/blob/main/GOL.gif)
 
 
