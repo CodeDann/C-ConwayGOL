@@ -26,6 +26,11 @@ This requires;
 
 Finally after the execution is finished the final state will be saved in "save_store.txt" in the same format as the "game_store" that was loaded into the program to start with,.
 
+## What it looks like
+
+Example execution of simple glider
+https://user-images.githubusercontent.com/87324565/127156358-271ef221-5b1c-443b-8d2d-17bb95c51b0b.mov
+
 
 
 
